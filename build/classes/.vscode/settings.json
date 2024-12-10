@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\acer1\\OneDrive\\Documents\\NetBeansProjects\\TugasRancangPBO\\flatlaf-3.5.2.jar",
+        "c:\\Users\\acer1\\OneDrive\\Documents\\NetBeansProjects\\TugasRancangPBO\\mysql-connector-j-9.1.0.jar",
+        "c:\\Users\\acer1\\OneDrive\\Documents\\NetBeansProjects\\TugasRancangPBO\\TimingFramework-0.55.jar"
+    ]
+}
